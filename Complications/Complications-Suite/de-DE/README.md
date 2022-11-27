@@ -1,8 +1,34 @@
-# Complications-Suite: German Translations
+# AmoledWatchFaces-Translations
+## German Complications-Suite-Translations
+Here you find the *German* translation for the *[Complications-Suite](https://play.google.com/store/apps/details?id=com.weartools.weekdayutccomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
-You can contribute & add translation for your language
+### Contribution
+You can contribute given translations or add your own ones.\
+*(Please don't use a machine translator.)*
 
-Use default xml file > values/strings.xml
-Translation will be added to values-sk-rSK (Slovak) -- example
+To add a translation just follow the folder structure and extend it with your language. Best way is to copy given translations and just edit the values.\
+This way you can make shure, that the format is correct.
 
-If doing translation, please translate both mobile / wear apps.
+---
+> #### NOTE
+> - If you add a translation, which consists of multiple files, please make sure to submit a complete translation of all the files.\
+    If a file is missing, the translation cannot be published to the store.
+> - Please don't use machine translators.
+---
+---
+# German Version
+## Deutsche Komplikationen-Suite-Übersetzung
+Hier ist die *Deutsche* Übersetzung der *[Komplikationen-Suite](https://play.google.com/store/apps/details?id=com.weartools.weekdayutccomp "Playstore Page")* von **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+
+### Beitragen
+Es können bereits bestehende Übersetzungen geändert werden, oder ganz Neue hinzugefügt werden.\
+*(Bitte keine machinellen Übersetzungen benutzen.)*
+
+Zum Hinzufügen von Übersetzungen einfach der Ordner-Struktur folgen und um die entsprechende Sprache ergänzen. Am besten werden vorhandene Übersetzungen kopiert und dann editiert.\
+So kann das einheitliche Format übernommen werden.
+
+---
+> #### HINWEIS
+> - Beim Hinzufügen einer Übersetzung, die aus mehreren Dateien besteht, bitte immer eine komplette Übersetzung aller Dateien beifügen.\
+    Wenn eine der Dateien fehlt, kann die Übersetzung nicht im PlayStore veröffentlicht werden.
+> - Bitte keine machinellen Übersetzungen benutzen.
