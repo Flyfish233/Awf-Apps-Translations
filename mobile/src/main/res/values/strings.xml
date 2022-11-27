@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <!-- Do not translate translatable="false" lines -->
+
     <string name="app_name">Complications Suite</string> <!-- does not need to be translated -->
 
     <!-- make sure \n\n is in the same position -->
