@@ -1,4 +1,4 @@
-# AmoledWatchFaces-Translations
+# Watchface-Translations
 
 You can contribute & add translation for your language
 

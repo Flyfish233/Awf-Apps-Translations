@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Translation by: Develeon64 -->
+<!-- Translator: Develeon64 -->
 <resources>
 	<!-- Do not translate translatable="false" lines -->
-
 	<string name="app_name">Komplikationen-Suite</string>
 
 	<!-- make sure \n\n is in the same position -->
