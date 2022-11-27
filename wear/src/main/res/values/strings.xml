@@ -1,5 +1,7 @@
 <resources>
-    <string name="app_name">Complications Suite</string>
+    <!-- Do not translate translatable="false" lines -->
+
+    <string name="app_name">Complications Suite</string> <!-- does not need to be translated -->
     <string name="settings">Settings</string>
 
     <!-- Alarm Complication Preferences -->
