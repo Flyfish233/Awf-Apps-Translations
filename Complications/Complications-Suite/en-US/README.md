@@ -1,4 +1,4 @@
-# AmoledWatchFaces-Translations
+# Complications-Suite: English Translations
 
 You can contribute & add translation for your language
 

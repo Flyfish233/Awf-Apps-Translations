@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<!-- Translation by: Develeon64 -->
-<resources>
-	<string name="app_name">Komplikationen-Suite</string>
+<!-- Translator: Develeon64 -->
+<resources lang="de" country="DE">
+	<!-- Do not translate translatable="false" lines -->
+	<string name="app_name">Komplikationen-Suite</string> <!-- does not need to be translated -->
 	<string name="settings">Einstellungen</string>
 
 	<!-- Alarm Complication Preferences -->

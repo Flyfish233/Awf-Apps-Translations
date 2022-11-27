@@ -1,4 +1,4 @@
-# AmoledWatchFaces-Translations
+# Phone-Battery-Complication-Translations
 
 You can contribute & add translation for your language
 
