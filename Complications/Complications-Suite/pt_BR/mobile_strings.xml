@@ -3,9 +3,9 @@
 <!-- Translator: AmoledWatchFaces -->
 <resources lang="pt" country="BR">
 	<!-- Do not translate translatable="false" lines -->
-	<string name="app_name">Complications Suite</string> <!-- does not need to be translated -->
+	<string name="app_name">Complications Suite</string> <!-- Does not need to be translated, but it's recommended -->
 
-	<!-- make sure \n\n is in the same position -->
+	<!-- Make sure \n\n is in the same position -->
 	<string name="message_checking">Este aplicativo complementar foi criado para você encontrar facilmente e baixar aplicações para o relógio. Dispositivos Wear OS com API 27+ são suportados.\n\nChecando por dispositivos Wear OS…\n\nPor favor ative a conexão Bluetooth, conecte seu dispositivo Wear OS e atualize este app.</string>
 	<string name="message_no_devices">Este aplicativo complementar foi criado para você encontrar facilmente e baixar aplicações para o relógio. Dispositivos Wear OS com API 27+ são suportados.\n\nVocê não possui dispositivos Wear OS conectados ao seu telefone neste momento…\n\nPor favor ative a conexão Bluetooth, conecte seu dispositivo Wear OS e atualize este app.</string>
 	<string name="message_missing_all">Este aplicativo complementar foi criado para você encontrar facilmente e baixar aplicações para o relógio. Dispositivos Wear OS com API 27+ são suportados.\n\nPor favor, clique no botão abaixo para instalar o app no seu relógio.\n\nVocê já pode desinstalar este app :)</string>

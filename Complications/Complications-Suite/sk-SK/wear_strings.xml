@@ -3,7 +3,7 @@
 <!-- Translator: AmoledWatchFaces -->
 <resources lang="sk" country="SK">
 	<!-- Do not translate translatable="false" lines -->
-	<string name="app_name">Balík Komplikácií</string> <!-- does not need to be translated -->
+	<string name="app_name">Balík Komplikácií</string> <!-- Does not need to be translated, but it's recommended -->
 	<string name="settings">Nastavenia</string>
 
 	<!-- Alarm Complication Preferences -->

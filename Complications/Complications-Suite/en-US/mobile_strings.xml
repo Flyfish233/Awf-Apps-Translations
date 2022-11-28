@@ -3,9 +3,9 @@
 <!-- Translator: AmoledWatchFaces -->
 <resources lang="en" country="US">
 	<!-- Do not translate translatable="false" lines -->
-	<string name="app_name">Complications Suite</string> <!-- does not need to be translated -->
+	<string name="app_name">Complications Suite</string> <!-- Does not need to be translated, but it's recommended -->
 
-	<!-- make sure \n\n is in the same position -->
+	<!-- Make sure \n\n is in the same position -->
 	<string name="message_checking">This phone companion app was created for you to easily find and download application to your watch device. Wear OS API 27+ devices are supported.\n\nChecking for Wear OS devices…\n\nPlease turn on Bluetooth connection, connect your Wear OS device and refresh this app.</string>
 	<string name="message_no_devices">This phone companion app was created for you to easily find and download application to your watch device. Wear OS API 27+ devices are supported.\n\nYou have no Wear OS devices connected to your phone at this time…\n\nPlease turn on Bluetooth connection, connect your Wear OS device and refresh this app.</string>
 	<string name="message_missing_all">This phone companion app was created for you to easily find and download application to your watch device. Wear OS API 27+ devices are supported.\n\nPlease click on the button below to install app to your watch device(s).\n\nYou can freely uninstall this mobile app :)</string>
