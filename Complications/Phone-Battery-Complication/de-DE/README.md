@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## German Phone Battery Complication Translations
-Here you find the *German* translation for the *[Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+Here you find the *German* translation for the *[Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "Playstore Page")* from **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\
@@ -18,7 +18,7 @@ This way you can make shure, that the format is correct.
 ---
 # German Version
 ## Deutsche Smartphone-Akku Komplikation Übersetzung
-Hier ist die *Deutsche* Übersetzung der *[Smartphone-Akku Komplikation](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "PlayStore-Seite")* von **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "PlayStore-Seite")**.
+Hier ist die *Deutsche* Übersetzung der *[Smartphone-Akku Komplikation](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "PlayStore-Seite")* von **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "PlayStore-Seite")**.
 
 ### Beitragen
 Es können bereits bestehende Übersetzungen geändert werden, oder ganz Neue hinzugefügt werden.\

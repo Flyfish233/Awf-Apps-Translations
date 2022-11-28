@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## English Phone Battery Complication Translations
-Here you find the *English (default)* translation for the *[Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+Here you find the *English (default)* translation for the *[Phone Battery Complication](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "Playstore Page")* from **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\

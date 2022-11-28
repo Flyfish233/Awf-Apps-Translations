@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## Watchfaces-Translations
-Here you'll find all the translations for the PlayStore-Pages of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+Here you'll find all the translations for the PlayStore-Pages of **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\

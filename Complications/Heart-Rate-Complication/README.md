@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## Heart-Rate-Complication-Translations
-Here you'll find the translations for the *[Heart-Rate-Complication](https://play.google.com/store/apps/details?id=com.weartools.heartratecomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+Here you'll find the translations for the *[Heart-Rate-Complication](https://play.google.com/store/apps/details?id=com.weartools.heartratecomp "Playstore Page")* from **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\

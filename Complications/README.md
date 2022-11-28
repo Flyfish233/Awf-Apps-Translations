@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## Complications-Translations
-Here you'll find all the translations for the Complications of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.\
+Here you'll find all the translations for the Complications Apps from **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.\
 This includes all Complication-Suites, that contain translatable content.
 
 ### Contribution

@@ -1,6 +1,6 @@
-# AmoledWatchFaces-Translations
+# amoledwatchfaces™-Translations
 ## Health-Services-Complications-Translations
-Here you'll find the translations for the *[Health-Services-Complications](https://play.google.com/store/apps/details?id=com.weartools.hscomplications "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+Here you'll find the translations for the *[Health-Services-Complications](https://play.google.com/store/apps/details?id=com.weartools.hscomplications "Playstore Page")* from **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\
