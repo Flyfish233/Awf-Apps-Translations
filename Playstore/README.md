@@ -1,6 +1,6 @@
 # AmoledWatchFaces-Translations
-## Brazilian-Portuguese Complications-Suite-Translations
-Here you find the *Brazilian-Portuguese* translation for the *[Complications-Suite](https://play.google.com/store/apps/details?id=com.weartools.weekdayutccomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
+## Watchfaces-Translations
+Here you'll find all the translations for the PlayStore-Pages of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
 ### Contribution
 You can contribute given translations or add your own ones.\

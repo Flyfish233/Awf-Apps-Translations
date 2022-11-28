@@ -3,9 +3,9 @@
 <!-- Translator: AmoledWatchFaces -->
 <resources lang="sk" country="SK">
 	<!-- Do not translate translatable="false" lines -->
-	<string name="app_name">Complications Suite</string> <!-- does not need to be translated -->
+	<string name="app_name">Complications Suite</string> <!-- Does not need to be translated, but it's recommended -->
 
-	<!-- make sure \n\n is in the same position -->
+	<!-- Make sure \n\n is in the same position -->
 	<string name="message_checking">Táto sprievodná aplikácia pre telefón bola vytvorená, aby ste mohli ľahko nájsť a stiahnuť aplikáciu do svojho Wear OS zariadenia. Podporované sú zariadenia Wear OS API 27+.\n\nKontrolujú sa zariadenia Wear OS…\n\nZapnite pripojenie Bluetooth, pripojte svoje zariadenie Wear OS a obnovte túto aplikáciu.</string>
 	<string name="message_no_devices">Táto sprievodná aplikácia pre telefón bola vytvorená, aby ste mohli jednoducho nájsť a stiahnuť aplikáciu do svojho Wear OS zariadenia. Podporované sú zariadenia Wear OS API 27+.\n\nMomentálne nemáte k telefónu pripojené žiadne zariadenia Wear OS…\n\nZapnite pripojenie Bluetooth, pripojte svoje zariadenie Wear OS a obnovte túto aplikáciu.</string>
 	<string name="message_missing_all">Táto sprievodná aplikácia pre telefón bola vytvorená, aby ste mohli jednoducho nájsť a stiahnuť aplikáciu do svojho Wear OS zariadenia. Podporované sú zariadenia Wear OS API 27+.\n\nKliknutím na tlačidlo nižšie pre nainštalujete aplikáciu na svoje Wear OS zariadenie. Túto mobilnú aplikáciu si môžete odinštalovať :)</string>

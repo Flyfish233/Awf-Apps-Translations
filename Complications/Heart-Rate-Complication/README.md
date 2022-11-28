@@ -1,8 +1,16 @@
-# Heart-Rate-Complication-Translations
+# AmoledWatchFaces-Translations
+## Heart-Rate-Complication-Translations
+Here you'll find the translations for the *[Heart-Rate-Complication](https://play.google.com/store/apps/details?id=com.weartools.heartratecomp "Playstore Page")* of **[AmoledWatchFaces](https://play.google.com/store/apps/dev?id=5591589606735981545 "Playstore Page")**.
 
-You can contribute & add translation for your language
+### Contribution
+You can contribute given translations or add your own ones.\
+*(Please don't use a machine translator.)*
 
-Use default xml file > values/strings.xml
-Translation will be added to values-sk-rSK (Slovak) -- example
+To add a translation just follow the folder structure and extend it with your language. Best way is to copy given translations and just edit the values.\
+This way you can make shure, that the format is correct.
 
-If doing translation, please translate both mobile / wear apps.
+---
+> #### NOTE
+> - If you add a translation, which consists of multiple files, please make sure to submit a complete translation of all the files.\
+    If a file is missing, the translation cannot be published to the store.
+> - Please don't use machine translators.
