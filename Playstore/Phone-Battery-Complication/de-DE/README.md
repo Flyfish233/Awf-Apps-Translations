@@ -18,7 +18,7 @@ This way you can make shure, that the format is correct.
 ---
 # German Version
 ## Deutsche Smartphone-Akku Komplikation Übersetzung
-Hier ist die *Deutsche* Übersetzung der PlayStore-Seite von der *[Smartphone-Akku Komplikation](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "PlayStore-Seite")* von **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "PlayStore-Seite")**.
+Hier ist die *Deutsche* Übersetzung der PlayStore-Seite für die *[Smartphone-Akku Komplikation](https://play.google.com/store/apps/details?id=com.weartools.phonebattcomp "PlayStore-Seite")* von **[amoledwatchfaces™](https://play.google.com/store/apps/dev?id=5591589606735981545 "PlayStore-Seite")**.
 
 ### Beitragen
 Es können bereits bestehende Übersetzungen geändert werden, oder ganz Neue hinzugefügt werden.\
