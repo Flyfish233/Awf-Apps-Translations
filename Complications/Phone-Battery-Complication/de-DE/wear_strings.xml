@@ -15,7 +15,7 @@
     <!-- Phone Battery Complication strings -->
     <string name="phone_battery_preview_desc">Smartphone-Akkustand</string>
     <string name="phone_battery_at">Smartphone-Akkustand bei&#160;</string>
-    <string name="phone_battery_long_text">Smartphone-Akkustand:&#160;</string>
+    <string name="phone_battery_long_text">Smartphone-Akku:&#160;</string>
 
     <!-- Watch Battery Complication strings -->
     <string name="watch_battery_at">Smartwatch-Akkustand bei&#160;</string>
