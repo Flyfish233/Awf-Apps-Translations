@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- Translator: Flyfish233 -->
+<resources lang="zh" country="CN">
+    <!-- Do not translate translatable="false" lines -->
+    <string name="app_name">Phone Battery Complication</string> <!-- Does not need to be translated, but it's recommended -->
+
+    <!-- Make sure \n\n is in the same position -->
+    <string name="message_checking">这个配套的手机 App 是用来发送手机的电池电量到手表上的。\n\n正在检测 Wear OS 手表…\n\n请打开手机的蓝牙，连接上 Wear OS 手表，然后点击刷新按钮。</string>
+    <string name="message_no_devices">这个配套的手机 App 是用来发送手机的电池电量到手表上的。\n\n您现在没有连接上任何 Wear OS 手表。\n\n请打开手机的蓝牙，连接上 Wear OS 手表，然后点击刷新按钮。</string>
+
+    <string name="message_missing_all">这个配套的手机 App 是用来发送手机的电池电量到手表上的。\n\n已连接上手表。\n\n请点击下面的按钮来安装手表端应用。</string>
+    <string name="message_some_installed">这个配套的手机 App 是用来发送手机的电池电量到手表上的。\n\n已连接上手表。\n\n请点击下面的按钮来安装手表端应用。</string>
+    <string name="message_all_installed">这个配套的手机 App 是用来发送手机的电池电量到手表上的。\n\n已连接上手表。\n\n请点击下面的按钮来安装手表端应用。</string>
+
+    <string name="store_request_successful">请在手表端继续</string>
+    <string name="store_request_unsuccessful">请求 Play 商店出错。您的手表系统可能过旧，低于 Android 8.1。</string>
+
+    <string name="important">重要提示：\n\n手机端和手表端都必须安装上，才能正常使用此复杂功能。</string>
+    <string name="support_amoledwatchfaces_com" translatable="false">support@amoledwatchfaces.com</string>
+
+    <string name="you_can_check_our_full_watch_face_portfolio_here">您可以在此处查看我们的全系列表盘：</string>
+    <string name="play_google_com" translatable="false">amoledwatchfaces™ - dev page</string>
+
+    <string name="install_app">安装手表端应用</string>
+    <string name="refresh">刷新</string>
+</resources>
