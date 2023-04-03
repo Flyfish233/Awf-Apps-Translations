@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- Translator: Flyfish233 -->
-<resources lang="en" country="US">
+<resources lang="zh" country="CN">
     <!-- Do not translate translatable="false" lines -->
     <string name="app_name">Phone Battery Complication</string> <!-- Does not need to be translated, but it's recommended -->
 
     <string name="settings">设置</string>
-    <string name="setup1">如何初始化？+</string>
+    <string name="setup1">如何初始化？</string>
     <string name="setup2">1. 在手机上安装手机端应用 [链接]</string>
     <string name="setup3">2. 自定义表盘\n3. 添加复杂功能</string>
     <string name="arrow" translatable="false">…</string>
